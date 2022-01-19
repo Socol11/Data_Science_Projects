@@ -56,6 +56,7 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 distributed==2021.3.1
 efficient-apriori==1.1.1
 entrypoints==0.3
+et-xmlfile==1.1.0
 filelock @ file:///tmp/build/80754af9/filelock_1638521398314/work
 Flask==2.0.0
 fsspec==0.8.7
@@ -85,7 +86,9 @@ Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
 joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
 jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
+jupyter==1.0.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1640335223713/work
+jupyter-console==6.4.0
 jupyter-contrib-core==0.3.3
 jupyter-contrib-nbextensions==0.5.1
 jupyter-core @ file:///C:/ci/jupyter_core_1636537209059/work
@@ -130,6 +133,7 @@ numexpr @ file:///C:/ci/numexpr_1640704420125/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1634106873805/work
 nyoka==4.4.0
 olefile==0.46
+openpyxl==3.0.9
 packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandas @ file:///C:/ci/pandas_1641461312795/work
 pandocfilters @ file:///C:/ci/pandocfilters_1605102427207/work
@@ -172,6 +176,7 @@ pywin32==302
 pywinpty==0.5.7
 PyYAML==6.0
 pyzmq @ file:///C:/ci/pyzmq_1638435182681/work
+qtconsole==5.2.2
 QtPy @ file:///tmp/build/80754af9/qtpy_1629397026935/work
 queuelib==1.5.0
 regex==2021.4.4
