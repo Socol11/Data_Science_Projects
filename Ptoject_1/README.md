@@ -1,5 +1,7 @@
 # Проект 1: Анализ вакансий на hh.ru
 
+Примечание: Файл проекта, если не открывается на GitHub, можно просмотреть по ссылке https://nbviewer.org/github/Socol11/SkillFactory_Projects/blob/main/Ptoject_1/Project_1.ipynb
+
 ## Оглавление
 
 1. Описание проекта
