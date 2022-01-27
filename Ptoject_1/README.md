@@ -35,6 +35,7 @@
 - Project_1.ipynb - ноутбук проекта со всеми кодами, функциями и графиками.
 - dst-3.0_16_1_hh_database.csv (https://drive.google.com/file/d/1ZvKATDIJWkFozovSX6mo2JOQtpK0MVTe/view?usp=sharing) - датасет с данными о вакансиях (мы работаем именно с этими данными).
 - ExchangeRates.csv (https://drive.google.com/file/d/1zClt8ND6zYWYwKhDchmEymHZDbzHOV0S/view?usp=sharing) - вспомогательный датасет с котировками валют для преобразования зарплат в соответствии с курсами валют в конкретные даты.
+- img/ - HTML-файлы с интерактивными графиками проекта.
 
 ## Базовый анализ структуры данных
 
