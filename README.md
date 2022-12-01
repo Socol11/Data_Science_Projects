@@ -11,6 +11,8 @@
 
 [Мини-проект: Predicting a biological response](https://github.com/Socol11/SkillFactory_Projects/tree/main/Predicting%20a%20biological%20response)
 
+[Мини-проект: Applying Gradient Descent to a Regression Problem](https://github.com/Socol11/SkillFactory_Projects/tree/main/Applying%20Gradient%20Descent%20to%20a%20Regression%20Problem)
+
 Проект 4: Оценка лояльности клиентов банка - ПРОЕКТ НА ОФОРМЛЕНИИ
 
 [Проект 5: New York City Taxi Trip Duration from Kaggle --> Google Colab](https://colab.research.google.com/drive/1HxS-Ob9Rmk1UcZxppvtMAVlYJosLVln_?usp=sharing)
