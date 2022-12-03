@@ -3,7 +3,7 @@
 
 [Проект 0: Анализ оттока клиентов из банка](https://github.com/Socol11/SkillFactory_Projects/tree/main/Project_0)
 
-[Проект 1: Анализ вакансий на hh.ru --> Google Colab](https://colab.research.google.com/drive/109Zb2EjypNxM5vz-GTEQ8cvmJRW_Je5_?usp=sharing)
+[Проект 1: Анализ резюме на hh.ru --> Google Colab](https://colab.research.google.com/drive/109Zb2EjypNxM5vz-GTEQ8cvmJRW_Je5_?usp=sharing)
 
 Проект 2: Анализ вакансий на hh.ru средствами SQL+Python - ПРОЕКТ НА ОФОРМЛЕНИИ
 
