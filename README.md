@@ -16,3 +16,7 @@
 [Проект 4: Оценка лояльности клиентов банка --> Google Colab](https://colab.research.google.com/drive/10-MKBtRxSjb4YG93GDOLblrKoDaONIQU?usp=sharing)
 
 [Проект 5: New York City Taxi Trip Duration from Kaggle --> Google Colab](https://colab.research.google.com/drive/1HxS-Ob9Rmk1UcZxppvtMAVlYJosLVln_?usp=sharing)
+
+AB-тестирование посадочной страницы туристической компании - ПРОЕКТ НА ОФОРМЛЕНИИ
+
+Проект 6: Сегментирование клиентов онлайн-магазина подарков - ПРОЕКТ НА ОФОРМЛЕНИИ
