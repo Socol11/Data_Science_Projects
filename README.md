@@ -1,4 +1,4 @@
-# Мои Data Science и Data Analytics проекты
+# Data Science & Data Analytics
 ## Проекты выполнены в рамках обучения в онлайн-школе SkillFactory на курсе Data Science
 
 [Проект 0: Анализ оттока клиентов из банка](https://github.com/Socol11/SkillFactory_Projects/tree/main/Project_0)
