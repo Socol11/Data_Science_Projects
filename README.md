@@ -17,6 +17,6 @@
 
 [Проект 5: New York City Taxi Trip Duration from Kaggle --> Google Colab](https://colab.research.google.com/drive/1HxS-Ob9Rmk1UcZxppvtMAVlYJosLVln_?usp=sharing)
 
-AB-тестирование посадочной страницы туристической компании - ПРОЕКТ НА ОФОРМЛЕНИИ
+[AB-тестирование посадочной страницы туристической компании --> Google Colab](https://colab.research.google.com/drive/1FqB6onhLLDwh3T1-ic06hO5T6Coh3BxR?usp=sharing)
 
 Проект 6: Сегментирование клиентов онлайн-магазина подарков - ПРОЕКТ НА ОФОРМЛЕНИИ
