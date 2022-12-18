@@ -7,7 +7,7 @@
 
 [Проект 2: Анализ вакансий на hh.ru средствами SQL+Python](https://github.com/Socol11/SkillFactory_Projects/tree/main/Project_2:%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B8%D0%B7%20HeadHunter)
 
-Проект 3: Прогноз рейтинга отеля по данным сайта Booking - ПРОЕКТ НА ОФОРМЛЕНИИ
+[Проект 3: Прогноз рейтинга отеля по данным сайта Booking --> Google Colab](https://colab.research.google.com/drive/1VmKIANxQNPU9yfoxUGonZ0r3CIOHkBG0?usp=sharing) - ПРОЕКТ НА ОФОРМЛЕНИИ
 
 [Мини-проект: Predicting a biological response](https://github.com/Socol11/SkillFactory_Projects/tree/main/Predicting%20a%20biological%20response)
 
