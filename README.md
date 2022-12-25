@@ -20,3 +20,5 @@
 [AB-тестирование посадочной страницы туристической компании --> Google Colab](https://colab.research.google.com/drive/1FqB6onhLLDwh3T1-ic06hO5T6Coh3BxR?usp=sharing)
 
 Проект 6: Сегментирование клиентов онлайн-магазина подарков - ПРОЕКТ НА ОФОРМЛЕНИИ
+
+[Мини-проект: Реализация наивного байесовского классификатора для классификации SMS спама](https://github.com/Socol11/Data_Science_Projects/blob/main/SMSspamNB/SMSspamNB.ipynb)
