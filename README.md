@@ -22,3 +22,5 @@
 Проект 6: Сегментирование клиентов онлайн-магазина подарков - ПРОЕКТ НА ОФОРМЛЕНИИ
 
 [Мини-проект: Реализация наивного байесовского классификатора для классификации SMS спама](https://github.com/Socol11/Data_Science_Projects/blob/main/SMSspamNB/SMSspamNB.ipynb)
+
+[Мини-проект: Классификация текстов электронной почты с использованием наивного байесовского классификатора](https://github.com/Socol11/Data_Science_Projects/blob/main/SMSspamNB/EmailSpamNBC.ipynb)
