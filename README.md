@@ -26,4 +26,4 @@
 
 Мини-проект: Ручная реализация алгоритма решающего дерева для задач регрессии и классификации - ПРОЕКТ НА ОФОРМЛЕНИИ
 
-Мини-проект: Решение задачи Gender Recognition by Voice с помощью алгоритма решаюшего дерева - ПРОЕКТ НА ОФОРМЛЕНИИ
+[Мини-проект: Решение задачи Gender Recognition by Voice с помощью алгоритма решаюшего дерева](https://github.com/Socol11/Data_Science_Projects/blob/main/GenderRecognitionbyVoice/GenderRecognitionbyVoice.ipynb)
