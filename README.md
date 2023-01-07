@@ -1,4 +1,4 @@
-# Data Science & Data Analytics
+# Data Science, Machine Learning & Data Analytics
 
 [Проект 0: Анализ оттока клиентов из банка](https://github.com/Socol11/SkillFactory_Projects/tree/main/Project_0)
 
@@ -8,17 +8,17 @@
 
 [Проект 3: Прогноз рейтинга отеля по данным сайта Booking --> Google Colab](https://colab.research.google.com/drive/1VmKIANxQNPU9yfoxUGonZ0r3CIOHkBG0?usp=sharing)
 
-[Мини-проект: Predicting a biological response](https://github.com/Socol11/SkillFactory_Projects/tree/main/Predicting%20a%20biological%20response)
-
-[Мини-проект: Applying Gradient Descent to a Regression Problem](https://github.com/Socol11/SkillFactory_Projects/tree/main/Applying%20Gradient%20Descent%20to%20a%20Regression%20Problem)
-
 [Проект 4: Оценка лояльности клиентов банка --> Google Colab](https://colab.research.google.com/drive/10-MKBtRxSjb4YG93GDOLblrKoDaONIQU?usp=sharing)
 
 [Проект 5: New York City Taxi Trip Duration from Kaggle --> Google Colab](https://colab.research.google.com/drive/1HxS-Ob9Rmk1UcZxppvtMAVlYJosLVln_?usp=sharing)
 
-[AB-тестирование посадочной страницы туристической компании --> Google Colab](https://colab.research.google.com/drive/1FqB6onhLLDwh3T1-ic06hO5T6Coh3BxR?usp=sharing)
-
 Проект 6: Сегментирование клиентов онлайн-магазина подарков - ПРОЕКТ НА ОФОРМЛЕНИИ
+
+[Мини-проект: AB-тестирование посадочной страницы туристической компании --> Google Colab](https://colab.research.google.com/drive/1FqB6onhLLDwh3T1-ic06hO5T6Coh3BxR?usp=sharing)
+
+[Мини-проект: Predicting a biological response](https://github.com/Socol11/SkillFactory_Projects/tree/main/Predicting%20a%20biological%20response)
+
+[Мини-проект: Applying Gradient Descent to a Regression Problem](https://github.com/Socol11/SkillFactory_Projects/tree/main/Applying%20Gradient%20Descent%20to%20a%20Regression%20Problem)
 
 [Мини-проект: Самостоятельная реализация наивного байесовского классификатора для классификации SMS спама](https://github.com/Socol11/Data_Science_Projects/blob/main/SMSspamNB/SMSspamNB.ipynb)
 
