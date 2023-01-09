@@ -31,3 +31,5 @@
 [Мини-проект: Оценка вероятности осадков на завтра с помощью алгоритмов логистической регрессии, дерева решений и случайного леса](https://github.com/Socol11/Data_Science_Projects/blob/main/RainTomorrow/RainTomorrow.ipynb)
 
 [Мини-проект: Прогнозирование удовлетворённости клиентов авиакомпании с помощью алгоритмов бустинга](https://github.com/Socol11/Data_Science_Projects/blob/main/AirPassBoosting/AirPassBoosting.ipynb)
+
+[Мини-проект: Прогнозирование лягушек семейства 'Dendrobatidae' по издаваемым звукам с использованием стекинга](https://github.com/Socol11/Data_Science_Projects/blob/main/FrogClassification/FrogsClassification.ipynb)
