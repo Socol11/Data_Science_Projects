@@ -33,3 +33,6 @@
 [Мини-проект: Прогнозирование удовлетворённости клиентов авиакомпании с помощью алгоритмов бустинга](https://github.com/Socol11/Data_Science_Projects/blob/main/AirPassBoosting/AirPassBoosting.ipynb)
 
 [Мини-проект: Прогнозирование лягушек семейства 'Dendrobatidae' по издаваемым звукам с использованием стекинга](https://github.com/Socol11/Data_Science_Projects/blob/main/FrogClassification/FrogsClassification.ipynb)
+
+Мини-проект: Кластеризация пользователей социальной сети по сферам интересов с помощью K-means и EM алгоритмов - ПРОЕКТ НА ОФОРМЛЕНИИ
+
