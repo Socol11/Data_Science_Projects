@@ -46,4 +46,4 @@
 
 Мини-проект: Анализ качества работы WEB-сервиса компании - ПРОЕКТ В РАБОТЕ
 
-Мини-проект: Рекомендательная система для читателей статей - ПРОЕКТ В РАБОТЕ
+[Мини-проект: Рекомендательная система без персонализации для читателей статей](https://github.com/Socol11/Data_Science_Projects/blob/main/NonPersonalizedRecommenderSystem/NonPesonailzedRecommenderSystem.ipynb)
